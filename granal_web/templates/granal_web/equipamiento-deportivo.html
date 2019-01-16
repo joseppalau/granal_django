@@ -1,0 +1,23 @@
+{% extends 'granal_web/base.html' %}
+{% load staticfiles %}
+
+{% block content %}
+    <div class="" style="width:100%">
+      <img src="{% static 'images/foto-pagina-equipamiento.jpg' %}" alt="" width="100%">
+    </div>
+
+    <div class="titulo-producto" style="border-bottom:2px solid orange">
+      <h3 valign="bottom">Equipamiento Deportivo</h3>
+    </div>
+
+    <table class="table-productos">
+      <tr>
+        <td valign="top" style="width:50%">
+          <p>Granal Sport siempre está cerca de ti ofreciendo equipamiento de cumplirá tus necesidades. Tan solo cuéntanos que necesitas y te contestaremos con la solución más adecuada. </p>
+        </td>
+        <td valign="top" style="width:50%">
+          <p>En Granal Sport solo trabajan técnicos con una larga experiencia en el mundo del deporte. El trato es directo y transparente.</p>
+        </td>
+      </tr>
+    </table>
+{% endblock %}

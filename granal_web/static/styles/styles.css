@@ -1,0 +1,128 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: sans-serif;
+  width:100;
+
+}
+
+.header-logo{
+  width:100%;
+  height:110px;
+  margin-bottom: 10px;
+  display: flex;
+  padding: 0px;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-bar{
+  width:100%;
+  height:40px;
+  background-color:orange;
+  display: flex;
+  align-items: center;
+}
+
+.nav-bar ul{
+  height: 40px;
+  width:100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.nav-bar li{
+  display:inline;
+  color:orange;
+  margin: 10px;
+
+}
+
+.nav-bar a{
+  text-decoration: none;
+  color: white;
+}
+
+.nav-bar a:hover{
+  color:green;
+}
+
+h5{
+  text-align: center;
+}
+
+p{
+  font-size:auto;
+  line-height: 15px;
+}
+
+.table-home{
+  width:75%;
+  margin: 0 auto;
+}
+
+.table-productos, .container-contacto{
+  width:75%;
+  margin: 0 auto;
+  margin-top: 5px;
+}
+
+.container-contacto td{
+  padding-bottom:10px;
+}
+
+.titulo-producto{
+  text-align: left;
+  font-weight: bold;
+  color: grey;
+  font-size: 20px;
+  height:30px;
+  width:75%;
+  margin: 0 auto;
+
+}
+
+.table-home td{
+  padding: 5px;
+
+}
+
+td{
+  font-size: 12px;
+
+}
+td img{
+  vertical-align: bottom;
+  width:80%;
+}
+
+td a img{
+vertical-align: bottom;
+width:25%;
+}
+
+.footer{
+  width:100%;
+  height:80px;
+  background-color: green;
+  margin-top: 50px;
+  display: flex;
+  padding: 0px;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer ul{
+  list-style-type: none;
+}
+
+.footer ul li{
+  font-size: 12px;
+  color:white;
+  text-align: center;
+}
+

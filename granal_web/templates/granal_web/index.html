@@ -1,0 +1,35 @@
+{% extends 'granal_web/base.html' %}
+{% load staticfiles %}
+
+{% block content %}
+
+    <div class="" style="width:100%">
+      <img src="{% static 'images/valle-san-lorenzo.jpg' %}" alt="" width="100%">
+    </div>
+    <table class="table-home">
+      <tr>
+        <th style="border-bottom: 2px solid green;"><h3>Césped Artificial</h3></th>
+        <th style="border-bottom: 2px solid green;"><h3>Césped Natural</h3></th>
+        <th style="border-bottom: 2px solid orange;"><h3>Pavimentos</h3></th>
+        <th style="border-bottom: 2px solid orange;"><h3>Equipamiento</h3></th>
+      </tr>
+      <tr>
+        <td valign="top"><p>Granal ofrece unos campos de césped artificial que cumplen los ensayos más exigentes de la industria. Un campo para todos</p></td>
+        <td valign="top"><p>Un campo de césped natural permite desarrolar un juego en estado puro. Es la superficie de juego deseada por todos los deportistas</p></td>
+        <td valign="top"><p>Los pavimentos de Granal Sport están diseñador para durar. La inversión en nuestros productos siempre es altamente satisfactoria</p></td>
+        <td valign="top"><p>El mejor equipamiento con las mejores garantías. Los materiales y el modo de fabricación de toda nuestra gama es lo que nos da fiabilidad</p></td>
+      </tr>
+      <tr>
+        <td align="center" ><img src="static/images/cesped-artificial.png" alt=""></td>
+        <td align="center" ><img src="static/images/cesped-natural.png" alt=""></td>
+        <td align="center" ><img src="static/images/pista-baloncesto.png" alt=""></td>
+        <td align="center" ><img src="static/images/aro-baloncesto.png" alt=""></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="templates/cesped-artificial.html"><img src="static/images/boton-de-reproduccion.png" alt=""> </a> </td>
+        <td align="center"><a href="templates/cesped-natural.html"><img src="static/images/boton-de-reproduccion.png" alt=""> </a></td>
+        <td align="center"><a href="templates/pavimentos-deportivos.html"><img src="static/images/boton-de-reproduccion.png" alt=""> </a></td>
+        <td align="center"><a href="templates/equipamiento-deportivo.html"><img src="static/images/boton-de-reproduccion.png" alt=""> </a></td>
+      </tr>
+    </table>
+{% endblock %}

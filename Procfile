@@ -1,0 +1,1 @@
+web: gunicorn granal_django.wsgi

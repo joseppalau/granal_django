@@ -1,1 +1,1 @@
-web: gunicorn granal_django.wsgi
+web: gunicorn granal_django.wsgi --log-file -

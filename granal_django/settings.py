@@ -127,9 +127,10 @@ django_heroku.settings(locals())
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 DEFAULT_FROM_EMAIL = 'jep_palau@hotmail.com'
 EMAIL_HOST = 'smtp.sendgrid.net'
-EMAIL_HOST_USER = 'josepDjango'
-EMAIL_HOST_PASSWORD = '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'
-EMAIL_USE_TLS = False
+EMAIL_HOST_USER = 'jeppalau'
+EMAIL_HOST_PASSWORD = 'gapjen-rebhU3-fekmut'
 EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+
 
 

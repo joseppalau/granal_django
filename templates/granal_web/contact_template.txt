@@ -1,0 +1,8 @@
+Subject:
+{{subject}}
+
+Email:
+{{from_email}}
+
+Mensaje:
+{{message|safe|striptags}}

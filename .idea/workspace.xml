@@ -2,41 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cd2b49a-86f1-4ac4-8eef-a4753d5bb2e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/granal_web/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/granal_web/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/granal_web/contact_template.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/granal_django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/granal_django/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/2009-64-Pabellón-Polideportivo-Valle-San-Lorenzo-s3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/2009-64-Pabellón-Polideportivo-Valle-San-Lorenzo-s3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/aro-baloncesto.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/aro-baloncesto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/boton-de-reproduccion.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/boton-de-reproduccion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/cesped-artificial-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/cesped-artificial-img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/cesped-artificial.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/cesped-artificial.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/cesped-natural.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/cesped-natural.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/foto-pagina-cesped-artificial.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/foto-pagina-cesped-artificial.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/foto-pagina-cesped-natural.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/foto-pagina-cesped-natural.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/foto-pagina-contacto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/foto-pagina-contacto.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/foto-pagina-equipamiento.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/foto-pagina-equipamiento.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/foto-pagina-pavimentos-deportivos.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/foto-pagina-pavimentos-deportivos.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/icon-natural-grass.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/icon-natural-grass.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/icon-synthetic-grass.paint" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/icon-synthetic-grass.paint" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/icon-synthetic-grass.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/icon-synthetic-grass.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/icono-cesped-artificial.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/icono-cesped-artificial.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/icono-cesped-natural.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/icono-cesped-natural.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/logoCirculo_granal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/logoCirculo_granal.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/pista-baloncesto.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/pista-baloncesto.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/images/valle-san-lorenzo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/valle-san-lorenzo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/static/styles/w3.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/w3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/templates/granal_web/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/granal_web/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/templates/granal_web/cesped-artificial.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/granal_web/cesped-artificial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/templates/granal_web/cesped-natural.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/granal_web/cesped-natural.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/templates/granal_web/contacto.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/granal_web/contacto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/templates/granal_web/equipamiento-deportivo.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/granal_web/equipamiento-deportivo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/templates/granal_web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/granal_web/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/templates/granal_web/pavimentos-deportivos.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/granal_web/pavimentos-deportivos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/templates/send_form_email.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/send_form_email.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/granal_web/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/granal_web/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/granal_web/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/granal_web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/granal_web/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/granal_web/contacto.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,10 +16,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.44267726">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/granal_web/urls.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="286">
@@ -75,20 +46,29 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/granal_web/forms.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="130">
-                  <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+                <state relative-caret-position="286">
+                  <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/granal_django/settings.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="388">
+                  <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
+                  <folding>
+                    <element signature="e#314#323#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/granal_django/settings.py">
+            <entry file="file://$PROJECT_DIR$/templates/granal_web/contact_template.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1821">
-                  <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-                  <folding>
-                    <element signature="e#314#323#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="182">
+                  <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -130,8 +110,29 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/granal_web/views.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-518">
-                  <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+                <state relative-caret-position="337">
+                  <caret line="34" column="56" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
+                  <folding>
+                    <element signature="e#0#45#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file:///anaconda3/envs/first_django/lib/python3.7/site-packages/django/core/mail/message.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="6916">
+                  <caret line="284" column="8" selection-start-line="284" selection-start-column="8" selection-end-line="284" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file:///anaconda3/envs/first_django/lib/python3.7/site-packages/django/template/loader.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-47">
+                  <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -181,18 +182,20 @@
         <option value="$PROJECT_DIR$/contact/forms.py" />
         <option value="$PROJECT_DIR$/contact/views.py" />
         <option value="$PROJECT_DIR$/templates/contact/contact.html" />
-        <option value="$PROJECT_DIR$/granal_web/forms.py" />
-        <option value="$PROJECT_DIR$/granal_django/settings.py" />
         <option value="$PROJECT_DIR$/granal_web/urls.py" />
         <option value="$PROJECT_DIR$/granal_django/urls.py" />
         <option value="$PROJECT_DIR$/templates/granal_web/base.html" />
+        <option value="$PROJECT_DIR$/templates/granal_web/contact_template.txt" />
+        <option value="$PROJECT_DIR$/granal_web/forms.py" />
         <option value="$PROJECT_DIR$/granal_web/views.py" />
+        <option value="$PROJECT_DIR$/granal_django/settings.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="18" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
+    <option name="width" value="1855" />
     <option name="height" value="989" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -233,6 +236,17 @@
               <item name="granal_django" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
+            <path>
+              <item name="granal_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (first_django) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="granal_django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (first_django) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -242,6 +256,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -279,10 +294,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="989" extended-state="6" />
+    <frame x="18" y="23" width="1855" height="989" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17720829" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -293,13 +308,32 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32951945" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32951945" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1521265" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32951945" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/templates/granal_web/contacto.html">
@@ -432,29 +466,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/granal_web/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="7" column="50" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="50" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/granal_django/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1821">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-          <folding>
-            <element signature="e#314#323#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -469,6 +486,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/granal_web/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/granal_web/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -479,17 +503,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/granal_web/base.html">
+    <entry file="file:///anaconda3/envs/first_django/lib/python3.7/site-packages/django/template/loader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="-47">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/first_django/lib/python3.7/site-packages/django/core/mail/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6916">
+          <caret line="284" column="8" selection-start-line="284" selection-start-column="8" selection-end-line="284" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/granal_web/contact_template.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/granal_web/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/granal_web/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-518">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="337">
+          <caret line="34" column="56" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/granal_django/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
+          <folding>
+            <element signature="e#314#323#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

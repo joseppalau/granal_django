@@ -33,7 +33,6 @@ def emailView(request):
             email = EmailMessage('New contact form',
                                  content, 'Granal Site' +'',
                                  ['jeppalau83@gmail.com'],
-                                 headers={'Reply-To': from_email}
                                  )
             email.send()
             return redirect('success')

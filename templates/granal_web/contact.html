@@ -1,0 +1,10 @@
+{% extends 'granal_web/base.html' %}
+{% load staticfiles %}
+
+{% block content %}
+    <form method = 'post'>
+        {% csrf_token %}
+        {{form.as_p}}
+        <button type="submit" style="color:blue">Enviar</button>
+    </form>
+{% endblock %}

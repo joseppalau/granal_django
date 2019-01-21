@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2cd2b49a-86f1-4ac4-8eef-a4753d5bb2e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/granal_django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/granal_django/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/granal_web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/granal_web/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +50,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/granal_django/settings.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="414">
-                  <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+                <state relative-caret-position="434">
+                  <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
                   <folding>
                     <element signature="e#314#323#0" expanded="true" />
                   </folding>
@@ -106,7 +105,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/granal_web/views.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="427">
+                <state relative-caret-position="382">
                   <caret line="34" column="58" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
                   <folding>
                     <element signature="e#0#45#0" expanded="true" />
@@ -118,7 +117,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file:///anaconda3/envs/first_django/lib/python3.7/site-packages/django/core/mail/message.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1874">
+                <state relative-caret-position="2350">
                   <caret line="284" column="8" selection-start-line="284" selection-start-column="8" selection-end-line="284" selection-end-column="8" />
                 </state>
               </provider>
@@ -567,14 +566,14 @@
     </entry>
     <entry file="file:///anaconda3/envs/first_django/lib/python3.7/site-packages/django/core/mail/message.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1874">
+        <state relative-caret-position="2350">
           <caret line="284" column="8" selection-start-line="284" selection-start-column="8" selection-end-line="284" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/granal_web/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
+        <state relative-caret-position="382">
           <caret line="34" column="58" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
@@ -584,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/granal_django/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+        <state relative-caret-position="434">
+          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
           <folding>
             <element signature="e#314#323#0" expanded="true" />
           </folding>

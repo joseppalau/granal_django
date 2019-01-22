@@ -1,8 +1,10 @@
 from django.shortcuts import render, redirect
-from django.core.mail import EmailMessage
+from django.core.mail import send_mail
 from django.template.loader import get_template
 from django.http import HttpResponse
 from .forms import ContactForm
+from django.conf import settings
+
 
 def home_page(request):
     return render(request, 'granal_web/index.html')
@@ -30,11 +32,10 @@ def emailView(request):
             template = get_template('granal_web/contact_template.txt')
             context = {'subject': subject, 'from_email': from_email, 'message': message}
             content = template.render(context)
-            email = EmailMessage('New contact form',
-                                 content, 'Granal Site' +'',
+            send_mail('New contact form',
+                                 content, settings.DEFAULT_FROM_EMAIL,
                                  ['jeppalau83@gmail.com'],
                                  )
-            email.send()
             return redirect('success')
     return render(request, 'granal_web/contact.html', {'form': form})
 

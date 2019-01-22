@@ -125,10 +125,10 @@ STATIC_URL = "/static/"
 django_heroku.settings(locals())
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-SEND_GRID_APY_KEY = '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'
+SEND_GRID_APY_KEY = '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'
 EMAIL_HOST = 'smtp.sendgrid.net'
 EMAIL_HOST_USER = 'apikey'
-EMAIL_HOST_PASSWORD = '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'
+EMAIL_HOST_PASSWORD = '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'
 DEFAULT_FROM_EMAIL = 'jeppalau83@gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True

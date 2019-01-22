@@ -50,8 +50,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/granal_django/settings.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="168">
-                  <caret line="127" column="90" selection-start-line="127" selection-start-column="90" selection-end-line="127" selection-end-column="90" />
+                <state relative-caret-position="361">
+                  <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
                   <folding>
                     <element signature="e#314#323#0" expanded="true" />
                   </folding>
@@ -583,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/granal_django/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="127" column="90" selection-start-line="127" selection-start-column="90" selection-end-line="127" selection-end-column="90" />
+        <state relative-caret-position="361">
+          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
           <folding>
             <element signature="e#314#323#0" expanded="true" />
           </folding>

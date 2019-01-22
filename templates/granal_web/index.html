@@ -26,10 +26,10 @@
         <td align="center" ><img src="static/images/aro-baloncesto.png" alt=""></td>
       </tr>
       <tr>
-        <td align="center"><a href="templates/cesped-artificial.html"><img src="static/images/boton-de-reproduccion.png" alt=""> </a> </td>
-        <td align="center"><a href="templates/cesped-natural.html"><img src="static/images/boton-de-reproduccion.png" alt=""> </a></td>
-        <td align="center"><a href="templates/pavimentos-deportivos.html"><img src="static/images/boton-de-reproduccion.png" alt=""> </a></td>
-        <td align="center"><a href="templates/equipamiento-deportivo.html"><img src="static/images/boton-de-reproduccion.png" alt=""> </a></td>
+        <td align="center"><a href="{% url 'cesped-artificial' %}"><img src="static/images/boton-de-reproduccion.png" alt=""> </a> </td>
+        <td align="center"><a href="{% url 'cesped-natural' %}"><img src="static/images/boton-de-reproduccion.png" alt=""> </a></td>
+        <td align="center"><a href="{% url 'pavimentos-deportivos' %}"><img src="static/images/boton-de-reproduccion.png" alt=""> </a></td>
+        <td align="center"><a href="{% url 'equipamiento-deportivo' %}"><img src="static/images/boton-de-reproduccion.png" alt=""> </a></td>
       </tr>
     </table>
 {% endblock %}

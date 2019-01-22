@@ -29,10 +29,11 @@ def emailView(request):
             subject = form.cleaned_data['subject']
             from_email = form.cleaned_data['from_email']
             message = form.cleaned_data['message']
+            number = form.cleaned_data['number']
             template = get_template('granal_web/contact_template.txt')
-            context = {'subject': subject, 'from_email': from_email, 'message': message}
+            context = {'subject': subject, 'from_email': from_email, 'message': message, 'number': number}
             content = template.render(context)
-            send_mail('New contact form',
+            send_mail('Nuevo formulario de Contacto',
                                  content, settings.DEFAULT_FROM_EMAIL,
                                  ['jeppalau83@gmail.com'], fail_silently=True
                                  )

@@ -35,7 +35,7 @@ def emailView(request):
             content = template.render(context)
             send_mail('Nuevo formulario de Contacto',
                                  content, settings.DEFAULT_FROM_EMAIL,
-                                 ['jeppalau83@gmail.com'], fail_silently=True
+                                 ['toni.palau@granal.es'], fail_silently=True
                                  )
             return redirect('success')
     return render(request, 'granal_web/contact.html', {'form': form})

@@ -125,7 +125,7 @@ STATIC_URL = "/static/"
 django_heroku.settings(locals())
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-SEND_GRID_APY_KEY = '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'
+SEND_GRID_APY_KEY = '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'
 EMAIL_HOST = 'smtp.sendgrid.net'
 EMAIL_HOST_USER = 'jeppalau'
 EMAIL_HOST_PASSWORD = 'gapjen-rebhU3-fekmut'

@@ -1,5 +1,5 @@
-Asunto:
-{{subject}}
+Nombre:
+{{name}}
 
 Número de contacto:
 {{number}}

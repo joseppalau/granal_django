@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cd2b49a-86f1-4ac4-8eef-a4753d5bb2e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/granal_web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/granal_web/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/granal_django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/granal_django/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/granal_django/settings.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
+                <state relative-caret-position="168">
                   <caret line="127" column="90" selection-start-line="127" selection-start-column="90" selection-end-line="127" selection-end-column="90" />
                   <folding>
                     <element signature="e#314#323#0" expanded="true" />
@@ -182,8 +182,8 @@
         <option value="$PROJECT_DIR$/templates/granal_web/base.html" />
         <option value="$PROJECT_DIR$/templates/granal_web/contact_template.txt" />
         <option value="$PROJECT_DIR$/granal_web/forms.py" />
-        <option value="$PROJECT_DIR$/granal_django/settings.py" />
         <option value="$PROJECT_DIR$/granal_web/views.py" />
+        <option value="$PROJECT_DIR$/granal_django/settings.py" />
       </list>
     </option>
   </component>
@@ -571,22 +571,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/granal_django/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="127" column="90" selection-start-line="127" selection-start-column="90" selection-end-line="127" selection-end-column="90" />
-          <folding>
-            <element signature="e#314#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/granal_web/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="35" column="70" lean-forward="true" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="70" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/granal_django/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="127" column="90" selection-start-line="127" selection-start-column="90" selection-end-line="127" selection-end-column="90" />
+          <folding>
+            <element signature="e#314#323#0" expanded="true" />
           </folding>
         </state>
       </provider>
